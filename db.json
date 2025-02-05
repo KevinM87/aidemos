@@ -2,10 +2,10 @@
   "accounts": [
     {
       "id": 1234567890,
-      "email": "adutchtswift@gmail.com",
-      "first_name": "Taylor",
-      "last_name": "Swift",
-      "type": "frequent shopper",
+      "email": "tompidcock@gmail.com",
+      "first_name": "Tom",
+      "last_name": "Pidcock",
+      "type": "Gold user",
       "credit_limit": "£2000",
       "current_balance": "£1500",
       "available_credit": "£500",
@@ -13,7 +13,8 @@
       "minimum_payment": "£50",
       "transactions": [
         {
-          "status": "success",
+          "status": "failed",
+          "reason": "limit reached",
           "value": "£25.99"
         }
       ]
