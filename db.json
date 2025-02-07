@@ -11,6 +11,7 @@
       "available_credit": "500 €",
       "payment_due_date": "5th October",
       "minimum_payment": "£50",
+      "decryption_key": "ABZ76E4JLN87",
       "transactions": [
         {
           "status": "under review",
