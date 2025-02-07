@@ -13,7 +13,7 @@
       "minimum_payment": "£50",
       "transactions": [
         {
-          "status": "failed",
+          "status": "under review",
           "reason": "limit reached",
           "value": "£25.99"
         }
