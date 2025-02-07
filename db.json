@@ -42,7 +42,7 @@
     {
       "orderNumber": 12341,
       "orderDate": "10-02-2021",
-      "overallOrderStatus": "cancelled",
+      "overallOrderStatus": "processed",
       "cancelledReason": "Limite virement dépassée",
       "courier": "DHL",
       "estimatedDelDate": "28-02-2021",
@@ -65,7 +65,7 @@
     {
       "orderNumber": 12345,
       "orderDate": "21-06-2024",
-      "overallOrderStatus": "delivered",
+      "overallOrderStatus": "paid",
       "courier": "DHL",
       "estimatedDelDate": "29-06-2024",
       "items": [
