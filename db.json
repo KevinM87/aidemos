@@ -9,12 +9,12 @@
       "credit_limit": "£2000",
       "current_balance": "1 500 €",
       "available_credit": "500 €",
-      "payment_due_date": "5th October",
+      "payment_due_date": "Vendredi 7 mars 2025",
       "minimum_payment": "£50",
       "KBIS": "disponible",
       "transactions": [
         {
-          "status": "under review",
+          "status": "en cours de livraison",
           "reason": "limit reached",
           "value": "£25.99"
         }
