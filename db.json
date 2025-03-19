@@ -67,9 +67,9 @@
     {
       "orderNumber": 12345,
       "orderDate": "21-06-2024",
-      "overallOrderStatus": "out-for-delivery",
+      "overallOrderStatus": "out for delivery",
       "courier": "DHL",
-      "estimatedDelDate": "29-06-2024",
+      "estimatedDelDate": "21-03-2025",
       "items": [
         {
           "itemNo": 1,
