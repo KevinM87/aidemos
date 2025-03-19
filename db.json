@@ -15,7 +15,7 @@
       "KBIS": "disponible",
       "transactions": [
         {
-          "status": "en cours de livraison",
+          "status": "under review",
           "reason": "limit reached",
           "value": "£25.99"
         }
