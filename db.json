@@ -2,11 +2,11 @@
   "accounts": [
     {
       "accountid":123456789,
-      "email": "tompidcock@gmail.com",
+      "email": "paul.seixas@mail.com",
       "first_name": "Tom",
       "last_name": "Pidcock",
       "DOB": "10-07-1987",
-      "type": "enregistré",
+      "key_status": "expirée",
       "credit_limit": "£2000",
       "current_balance": "1 500 €",
       "available_credit": "500 €",
@@ -23,10 +23,10 @@
     },
     {
       "accountid": 1000000000,
-      "email": "adutchldrey@gmail.com",
+      "email": "romain:grégoire@mail.com",
       "first_name": "Lana",
       "last_name": "Del Rey",
-      "type": "new",
+      "key_status": "expirée",
       "credit_limit": "£9999",
       "current_balance": "£9999",
       "available_credit": "£0",
