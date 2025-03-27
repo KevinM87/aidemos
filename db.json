@@ -29,7 +29,7 @@
       "first_name": "Tom",
       "last_name": "Pidcock",
       "DOB": "10-07-1987",
-      "key_status": "null",
+      "key_status": "ok",
       "credit_limit": "£2000",
       "current_balance": "1 500 €",
       "available_credit": "500 €",
