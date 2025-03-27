@@ -26,7 +26,7 @@
       "email": "romain:grégoire@mail.com",
       "first_name": "Lana",
       "last_name": "Del Rey",
-      "key_status": "expirée",
+      "key_status": "null",
       "credit_limit": "£9999",
       "current_balance": "£9999",
       "available_credit": "£0",
