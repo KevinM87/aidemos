@@ -21,12 +21,35 @@
         }
       ]
     },
+{
+  "accounts": [
+    {
+      "accountid":123456789,
+      "email": "valentin.madouas@mail.com",
+      "first_name": "Tom",
+      "last_name": "Pidcock",
+      "DOB": "10-07-1987",
+      "key_status": "null",
+      "credit_limit": "£2000",
+      "current_balance": "1 500 €",
+      "available_credit": "500 €",
+      "payment_due_date": "Vendredi 7 mars 2025",
+      "minimum_payment": "£50",
+      "localité": "Paris",
+      "transactions": [
+        {
+          "status": "under review",
+          "reason": "limit reached",
+          "value": "£25.99"
+        }
+      ]
+    },    
     {
       "accountid": 1000000000,
       "email": "romain:grégoire@mail.com",
       "first_name": "Lana",
       "last_name": "Del Rey",
-      "key_status": "null",
+      "key_status": "expirée",
       "credit_limit": "£9999",
       "current_balance": "£9999",
       "available_credit": "£0",
