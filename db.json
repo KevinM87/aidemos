@@ -12,7 +12,7 @@
       "available_credit": "500 €",
       "payment_due_date": "Vendredi 7 mars 2025",
       "minimum_payment": "£50",
-      "KBIS": "disponible",
+      "localité": "Paris",
       "transactions": [
         {
           "status": "under review",
@@ -32,6 +32,7 @@
       "available_credit": "£0",
       "payment_due_date": "18th June",
       "minimum_payment": "£5000",
+      "localité": "Province",
       "transactions": [
         {
           "status": "success",
