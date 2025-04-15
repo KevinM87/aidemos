@@ -99,12 +99,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Lush",
-              "Item": "Sticky Dates",
+              "Brand": "Pack Chevalier du ciel",
+              "Item": "14 avril 2025",
               "quantity": 1,
               "Size": "3 x 100g",
               "Color": "Multi",
-              "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/thumbnails/products/sticky_dates_gift_hero_landscape_2024_a79ac6c6_thumbnail_4096.jpg"
+              "url": "https://static.ankama.com/upload/backoffice/direct/2025-03-18/01d176d6fc36395ea07b1c7c1c532bfd.jpg"
             }
           ]
         },
@@ -112,12 +112,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Lush",
-              "Item": "Posh Chocolate",
+              "Brand": "Megapack printanier",
+              "Item": "11 avril 2025",
               "quantity": 1,
               "Size": "225g",
               "Color": "Multi",
-              "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/thumbnails/products/posh_chocolate_body_wash__hero_2021_1_1ca5acd1_thumbnail_4096.jpg"
+              "url": "https://static.ankama.com/shops/img/article/17347/original_26887_all.w368h368.png"
             }
           ]
         }
