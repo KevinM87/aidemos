@@ -11,7 +11,7 @@
       "current_balance": "1 500 €",
       "available_credit": "500 €",
       "payment_due_date": "Vendredi 7 mars 2025",
-      "minimum_payment": "£50",
+      "secret_question": "Quelle est la couleur de votre première voiture ?",
       "IP": "sain",
       "transactions": [
         {
