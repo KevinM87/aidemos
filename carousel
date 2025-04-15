@@ -1,0 +1,57 @@
+{
+  "statusCode": 200,
+  "data": {
+    "orders": [
+      {
+        "currency": "$",
+        "estimatedDeliveryDate": "2025-04-18",
+        "Quantity": "3",
+        "ProductCategory": "coffee machines",
+        "orderDate": "2024-07-02",
+        "methodType": "Credit Card",
+        "imageUrl": "https://z3n-analyst.zendesk.com/sc/attachments/ztPPAfHTzcqVZep-lFDiHV1_/coffee%20machine%203.png",
+        "manufacturer": "BrewMaster",
+        "ProductName": "Coffee Machine BrewMaster Pro",
+        "amount": "30,240.00",
+        "overallOrderStatus": "out for delivery",
+        "customerId": "C1234567",
+        "customerEmail": "charlotteklein@yopmail.com",
+        "orderNumber": "8B16"
+      },
+      {
+        "currency": "$",
+        "estimatedDeliveryDate": "2025-04-18",
+        "Quantity": "2",
+        "ProductCategory": "coffee machines",
+        "orderDate": "2024-06-30",
+        "methodType": "bank transfer",
+        "imageUrl": "https://z3n-analyst.zendesk.com/sc/attachments/9sR_ca_gqtG8vAreZDVMoc8G/coffee%20machine%201.png",
+        "manufacturer": "De'Longhi",
+        "ProductName": "Polaris Compact, 2x Filtration Systems",
+        "amount": "1,0570.00",
+        "overallOrderStatus": "completed",
+        "customerId": "C1234567",
+        "customerEmail": "charlotteklein@yopmail.com",
+        "orderNumber": "8B39"
+      },
+      {
+        "currency": "$",
+        "estimatedDeliveryDate": "2025-04-18",
+        "Quantity": "3",
+        "ProductCategory": "coffee machines",
+        "orderDate": "2024-07-10",
+        "methodType": "cash",
+        "imageUrl": "https://z3n-analyst.zendesk.com/sc/attachments/QB_2mfCVPiSxLlzuU35L5ski/coffee%20machine%202.png",
+        "manufacturer": "BrewMaster",
+        "ProductName": "Coffee Machine BrewMaster 2.0",
+        "amount": "13,436.64",
+        "overallOrderStatus": "completed",
+        "customerId": "C1234567",
+        "customerEmail": "charlotteklein@yopmail.com",
+        "orderNumber": "8B78"
+      }
+    ],
+    "orderCount": 3
+  },
+  "requestParameters": {}
+}
