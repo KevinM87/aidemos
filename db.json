@@ -100,10 +100,10 @@
           "productDetails": [
             {
               "Brand": "Pack Chevalier du ciel",
-              "Item": "14 avril 2025",
+              "Item": "Achat confirmé",
               "quantity": 1,
-              "Size": "3 x 100g",
-              "Color": "Multi",
+              "releaseDate": "20 avril 2025",
+              "availability": "pre-oder",
               "url": "https://static.ankama.com/upload/backoffice/direct/2025-03-18/01d176d6fc36395ea07b1c7c1c532bfd.jpg"
             }
           ]
@@ -113,7 +113,7 @@
           "productDetails": [
             {
               "Brand": "Megapack printanier",
-              "Item": "11 avril 2025",
+              "Item": "Achat confirmé",
               "quantity": 1,
               "Size": "225g",
               "Color": "Multi",
