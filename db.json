@@ -31,7 +31,7 @@
       "credit_limit": "£2000",
       "current_balance": "1 500 €",
       "available_credit": "500 €",
-      "Under_warranty": "yes",
+      "under_warranty": "yes",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "localité": "Paris",
       "device": [
