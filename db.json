@@ -10,13 +10,13 @@
       "credit_limit": "£2000",
       "current_balance": "1 500 €",
       "available_credit": "500 €",
-      "payment_due_date": "Vendredi 7 mars 2025",
+      "under_warranty": "no",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "IP": "sain",
-      "transactions": [
+      "localité": "Paris",
+      "device": [
         {
-          "status": "under review",
-          "reason": "limit reached",
+          "status": "no connection",
+          "version": "3.1",
           "value": "£25.99"
         }
       ]
@@ -51,15 +51,14 @@
       "credit_limit": "£9999",
       "current_balance": "£9999",
       "available_credit": "£0",
-      "payment_due_date": "18th June",
-      "minimum_payment": "£5000",
-      "localité": "Province",
-      "siren": "120027016",
-      "téléphone": "06 30 60 34 91",
-      "transactions": [
+      "under_warranty": "yes",
+      "secret_question": "Quelle est la couleur de votre première voiture ?",
+      "localité": "Paris",
+      "device": [
         {
-          "status": "success",
-          "value": "£1895.00"
+          "status": "connection_established",
+          "version": "3.1",
+          "value": "£25.99"
         }
       ]
     }
