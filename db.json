@@ -13,6 +13,7 @@
       "under_warranty": "no",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "localité": "Paris",
+      "KBIS": "disponible",
       "device": [
         {
           "status": "no connection",
@@ -22,7 +23,7 @@
       ]
     },
     {
-      "accountid":123456789,
+      "accountid":123456780,
       "email": "tom.pidcock@gmail.com",
       "first_name": "Tom",
       "last_name": "Pidcock",
@@ -34,6 +35,7 @@
       "under_warranty": "yes",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "localité": "Paris",
+      "KBIS": "indisponible",
       "device": [
         {
           "status": "no connection",
