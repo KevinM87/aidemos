@@ -69,7 +69,7 @@
     {
       "orderNumber": 12341,
       "orderDate": "10-02-2021",
-      "overallOrderStatus": "en attente",
+      "overallOrderStatus": "completed",
       "cancelledReason": "Limite virement dépassée",
       "courier": "Stellantis",
       "estimatedDelDate": "28-02-2021",
@@ -92,7 +92,7 @@
     {
       "orderNumber": 12345,
       "orderDate": "21-06-2024",
-      "overallOrderStatus": "en cours",
+      "overallOrderStatus": "not_completed",
       "contact": "retard pour cause de bouchons et retour taxi",
       "estimatedDelDate": "21-03-2025",
       "items": [
