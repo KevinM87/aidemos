@@ -14,10 +14,10 @@
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "localité": "Paris",
       "KBIS": "disponible",
-      "device": [
+      "order": [
         {
-          "status": "no connection",
-          "version": "3.1",
+          "status": "waiting for pickup",
+          "ID": "12345",
           "value": "£25.99"
         }
       ]
