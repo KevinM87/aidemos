@@ -14,7 +14,7 @@
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "localité": "Paris",
       "KBIS": "disponible",
-      "order": [
+      "delivery": [
         {
           "status": "waiting for pickup",
           "ID": "12345",
