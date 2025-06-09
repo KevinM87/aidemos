@@ -16,7 +16,7 @@
       "KBIS": "disponible",
       "delivery": [
         {
-          "status": "waiting for pickup",
+          "status": "picked-up by delivery company",
           "ID": "12345",
           "value": "£25.99"
           "date": "12/06/2025"
