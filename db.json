@@ -100,8 +100,8 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Pieds de canapé",
-              "Item": "Achat confirmé",
+              "Brand": "LEONORE",
+              "Item": "Canapé d'angle",
               "quantity": 1,
               "releaseDate": "13 mai 2025",
               "availability": "pre-order",
@@ -114,8 +114,8 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Chauffeuse 1 place ELISA",
-              "Item": "Achat confirmé",
+              "Brand": "ELISA",
+              "Item": "Chauffeuse 1 place",
               "quantity": 1,
               "releaseDate": "03 avril 2025",
               "availability": "available",
