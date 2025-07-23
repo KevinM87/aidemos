@@ -35,8 +35,8 @@
       "available_credit": "500 €",
       "under_warranty": "yes",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "localité": "Paris",
-      "KBIS": "indisponible",
+      "account_health": "red",
+      "balance": "1000",
       "device": [
         {
           "status": "no connection",
