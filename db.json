@@ -2,7 +2,7 @@
   "accounts": [
     {
       "accountid":123456789,
-      "email": "paul.seixas@mail.com",
+      "email": "k3vind3mo@gmail.com",
       "first_name": "Tom",
       "last_name": "Pidcock",
       "Payment_due_date": "10 August 2025",
@@ -12,8 +12,8 @@
       "available_credit": "500 €",
       "under_warranty": "no",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "localité": "Paris",
-      "KBIS": "disponible",
+      "account_health": "green",
+      "balance": "null",
       "delivery": [
         {
           "status": "picked up by delivery company",
