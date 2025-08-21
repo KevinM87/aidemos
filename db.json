@@ -13,7 +13,7 @@
       "under_warranty": "no",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "account_health": "green",
-      "balance": "null",
+      "itunes_payment": "pending",
       "delivery": [
         {
           "status": "picked up by delivery company",
