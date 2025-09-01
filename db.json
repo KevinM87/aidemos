@@ -105,7 +105,7 @@
               "Brand": "LEONORE",
               "Item": "Canapé d'angle",
               "quantity": 1,
-              "releaseDate": "13 mai 2025",
+              "releaseDay": "13 mai 2025",
               "availability": "pre-order",
               "url": "https://cdn.bobochicparis.com/359772-large_default/canape-d-angle-fixe-leonore-tissu-bouclette-avec-pouf.jpg"
 
@@ -119,7 +119,7 @@
               "Brand": "ELISA",
               "Item": "Chauffeuse 1 place",
               "quantity": 1,
-              "releaseDate": "03 avril 2025",
+              "releaseDay": "03 avril 2025",
               "availability": "available",
               "url": "https://cdn.bobochicparis.com/247455-large_default/chauffeuse-1-place-sans-accoudoirs-elisa.jpg"
             }
