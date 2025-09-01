@@ -70,7 +70,8 @@
     {
       "orderNumber": 12341,
       "orderDate": "10-02-2021",
-      "overallOrderStatus": "completed",
+      "releaseDate": "non dépassé",
+      "overallOrderStatus": "réservée",
       "cancelledReason": "Limite virement dépassée",
       "courier": "Stellantis",
       "estimatedDelDate": "28-02-2021",
@@ -93,6 +94,7 @@
     {
       "orderNumber": 12345,
       "orderDate": "21-06-2025",
+      "releaseDate": "dépassé",
       "overallOrderStatus": "delivered",
       "estimatedDelDate": "27-06-2025",
       "items": [
