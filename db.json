@@ -71,8 +71,8 @@
       "orderNumber": 12341,
       "orderDate": "10-02-2021",
       "releaseDate": "non dépassé",
-      "overallOrderStatus": "réservée",
-      "cancelledReason": "Limite virement dépassée",
+      "fileStatus": "en attente",
+      "enAttente_raison": "Le co-soucripteur n'a pas signé",
       "courier": "Stellantis",
       "estimatedDelDate": "28-02-2021",
       "items": [
