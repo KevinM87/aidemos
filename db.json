@@ -71,7 +71,7 @@
       "orderNumber": 12341,
       "orderDate": "10-02-2021",
       "releaseDate": "non dépassé",
-      "fileStatus": "en attente",
+      "overallOrderStatus": "en_cours",
       "enAttente_raison": "Le co-soucripteur n'a pas signé",
       "courier": "Stellantis",
       "estimatedDelDate": "28-02-2021",
