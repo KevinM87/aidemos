@@ -11,7 +11,7 @@
       "Last_bill": "£76.54",
       "available_credit": "500 €",
       "high_volume": "no",
-      "vip": "no",
+      "return_possible": "no",
       "secret_question": "Quelle est la couleur de votre première voiture ?",
       "account_health": "green",
       "ifu_url": "https://tinyurl.com/5n86dnjv",
