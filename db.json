@@ -99,7 +99,7 @@
       "releaseDate": "dépassé",
       "overallOrderStatus": "avec le transporteur",
       "estimatedDelDate": "12-09-2025",
-      "url_transporteur": "https://www.dhl.com/fr-fr/home/suivi.html?tracking-id=12345&submit=1"
+      "url_transporteur": "https://www.dhl.com/fr-fr/home/suivi.html?tracking-id=12345&submit=1",
       "items": [
         {
           "itemNo": 1,
