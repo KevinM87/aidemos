@@ -94,7 +94,7 @@
     },
     {
       "orderNumber": 12345,
-      "email": "k3vind3mo@gmail.com",
+      "client": "k3vind3mo@gmail.com",
       "orderDate": "21-06-2025",
       "releaseDate": "dépassé",
       "overallOrderStatus": "delivered",
