@@ -103,12 +103,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "LEONORE",
-              "Item": "Canapé d'angle",
+              "Brand": "Bien-être Suprême",
+              "Item": "Matelas",
               "quantity": 1,
               "releaseDay": "13 mai 2025",
               "availability": "pre-order",
-              "url": "https://cdn.bobochicparis.com/359772-large_default/canape-d-angle-fixe-leonore-tissu-bouclette-avec-pouf.jpg"
+              "url": "https://hypnia.fr/cdn/shop/files/matelas_160x200_hypnia.jpg"
 
             }
           ]
@@ -117,12 +117,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "ELISA",
-              "Item": "Chauffeuse 1 place",
+              "Brand": "Duvet véritable Grand Hôtel",
+              "Item": "Orreiller",
               "quantity": 1,
               "releaseDay": "03 avril 2025",
               "availability": "available",
-              "url": "https://cdn.bobochicparis.com/247455-large_default/chauffeuse-1-place-sans-accoudoirs-elisa.jpg"
+              "url": "https://hypnia.fr/cdn/shop/files/oreiller_hotel_plume_60x60_hypnia.png"
             }
           ]
         }
