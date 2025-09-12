@@ -1,0 +1,182 @@
+{
+  "accounts": [
+    {
+      "accountid":123456789,
+      "email": "k3vind3mo@gmail.com",
+      "first_name": "Tom",
+      "last_name": "Pidcock",
+      "Payment_due_date": "10 August 2025",
+      "account_status": "enabled",
+      "last_order": "2000",
+      "Last_bill": "£76.54",
+      "available_credit": "500 €",
+      "high_volume": "no",
+      "return_possible": "no",
+      "secret_question": "Quelle est la couleur de votre première voiture ?",
+      "account_health": "green",
+      "ifu_url": "https://tinyurl.com/5n86dnjv",
+      "delivery": [
+        {
+          "status": "picked up by delivery company",
+          "ID": "12345",
+          "value": "£25.99",
+          "date_livraison": "12 juin 2025"
+        }
+      ]
+    },
+    {
+      "accountid":123456780,
+      "email": "kevinmiodek@gmail.com",
+      "first_name": "Tom",
+      "last_name": "Pidcock",
+      "DOB": "10-07-1987",
+      "key_status": "ok",
+      "credit_limit": "£2000",
+      "current_balance": "1 500 €",
+      "available_credit": "500 €",
+      "under_warranty": "yes",
+      "secret_question": "Quelle est la couleur de votre première voiture ?",
+      "account_health": "red",
+      "balance": "1000",
+      "device": [
+        {
+          "status": "no connection",
+          "version": "4.1",
+          "value": "£25.99"
+        }
+      ]
+    },    
+    {
+      "accountid": 1000000000,
+      "email": "romain.gregoire@mail.com",
+      "first_name": "Lana",
+      "last_name": "Del Rey",
+      "key_status": "null",
+      "credit_limit": "£9999",
+      "current_balance": "£9999",
+      "available_credit": "£0",
+      "under_warranty": "yes",
+      "secret_question": "Quelle est la couleur de votre première voiture ?",
+      "localité": "Paris",
+      "device": [
+        {
+          "status": "connection_established",
+          "version": "3.1",
+          "value": "£25.99"
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "orderNumber": 12341,
+      "orderDate": "10-02-2021",
+      "releaseDate": "non dépassé",
+      "overallOrderStatus": "en_cours",
+      "enAttente_raison": "Le co-soucripteur n'a pas signé",
+      "courier": "Stellantis",
+      "estimatedDelDate": "28-02-2021",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Georgina",
+              "Item": "Touch and Close Footbed Sandals",
+              "quantity": 1,
+              "Size": "S",
+              "Color": "Orange",
+              "url": "https://www.simplybe.co.uk/i/7408a88a60c70edd/original/y02od282711s.jpg?im=Resize=580&impolicy=pdp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderNumber": 12345,
+      "client": "k3vind3mo@gmail.com",
+      "orderDate": "21-06-2025",
+      "releaseDate": "dépassé",
+      "overallOrderStatus": "avec le transporteur",
+      "estimatedDelDate": "12-09-2025",
+      "url_transporteur": "https://www.dhl.com/fr-fr/home/suivi.html?tracking-id=12345&submit=1",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Bien-être Suprême",
+              "Item": "Matelas",
+              "quantity": 1,
+              "releaseDay": "13 mai 2025",
+              "availability": "pre-order",
+              "url": "https://hypnia.fr/cdn/shop/files/matelas_160x200_hypnia.jpg"
+
+            }
+          ]
+        },
+        {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Duvet véritable Grand Hôtel",
+              "Item": "Orreiller",
+              "quantity": 1,
+              "releaseDay": "03 avril 2025",
+              "availability": "available",
+              "url": "https://hypnia.fr/cdn/shop/files/oreiller_hotel_plume_60x60_hypnia.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderNumber": 54321,
+      "orderDate": "02-09-2024",
+      "overallOrderStatus": "shipped",
+      "courier": "DHL",
+      "estimatedDelDate": "15-09-2024",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "PUMA",
+              "Item": "Sportswear Cap",
+              "quantity": 1,
+              "Size": "-",
+              "Color": "SAGE",
+              "url": "https://www.simplybe.co.uk/i/716b62130a03c23f/original/z01pm570501s.jpg?im=Resize=580&impolicy=pdp"
+            }
+          ]
+        },
+        {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Under Armour",
+              "Item": "Performance Tech Socks 3pk",
+              "quantity": 1,
+              "Size": "M",
+              "Color": "Multi",
+              "url": "https://www.simplybe.co.uk/i/1e4efc201c743905/original/a01mo242500s.jpg?im=Resize=580&impolicy=pdp"
+            }
+          ]
+        },
+        {
+          "itemNo": 3,
+          "productDetails": [
+            {
+              "Brand": "SimplyBe",
+              "Item": "Dark Blue Slim Pull On Jegging",
+              "quantity": 1,
+              "Size": "EU S",
+              "Color": "Black",
+              "url": "https://www.simplybe.co.uk/i/5afcbe4fc94b4bf5/original/a02zy529736w.jpg?im=Resize=580&impolicy=pdp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
