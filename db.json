@@ -173,12 +173,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Bien-être Suprême",
-              "Item": "Matelas",
+              "Brand": "QUOTE Old",
+              "Item": "Leather",
               "quantity": 1,
               "releaseDay": "13 mai 2025",
               "availability": "pre-order",
-              "url": "https://hypnia.fr/cdn/shop/files/matelas_160x200_hypnia.jpg"
+              "url": "https://www.izipizi.com/media/catalog/product/f/8/f8_rea4127101x10_1-izi_quote_reading_old_leather_vue1_1_.jpg"
 
             }
           ]
@@ -187,12 +187,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Duvet véritable Grand Hôtel",
-              "Item": "Orreiller",
+              "Brand": "Moonlight Grey",
+              "Item": "Reading",
               "quantity": 1,
               "releaseDay": "03 avril 2025",
               "availability": "available",
-              "url": "https://hypnia.fr/cdn/shop/files/oreiller_hotel_plume_60x60_hypnia.png"
+              "url": "https://www.izipizi.com/media/catalog/product/f/8/f8_rea0327501x10_1-izi_c_reading_moonlight_grey_vue1_1_.jpg"
             }
           ]
         }
