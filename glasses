@@ -1,0 +1,102 @@
+{
+  "statusCode": 200,
+  "data": {
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": [
+      {
+        "favoriteColor": "green",
+        "favoriteGenre": "country",
+        "recommendedProductName": "Debut",
+        "collectionId": "1440913923"
+      },
+      {
+        "favoriteColor": "gold",
+        "favoriteGenre": "country",
+        "recommendedProductName": "Fearless",
+        "collectionId": "1552791073"
+      },
+      {
+        "favoriteColor": "yellow",
+        "favoriteGenre": "country",
+        "recommendedProductName": "Fearless",
+        "collectionId": "1552791073"
+      },
+      {
+        "favoriteColor": "red",
+        "favoriteGenre": "country",
+        "recommendedProductName": "Red",
+        "collectionId": "1589139584"
+      },
+      {
+        "favoriteColor": "black",
+        "favoriteGenre": "rock",
+        "recommendedProductName": "Reputation",
+        "collectionId": "1440933849"
+      },
+      {
+        "favoriteColor": "silver",
+        "favoriteGenre": "rock",
+        "recommendedProductName": "Reputation",
+        "collectionId": "1440933849"
+      },
+      {
+        "favoriteColor": "blue",
+        "favoriteGenre": "pop",
+        "recommendedProductName": "1989",
+        "collectionId": "1708308989"
+      },
+      {
+        "favoriteColor": "gray",
+        "favoriteGenre": "indie",
+        "recommendedProductName": "Folklore",
+        "collectionId": "1524801260"
+      },
+      {
+        "favoriteColor": "white",
+        "favoriteGenre": "pop",
+        "recommendedProductName": "Tortured Poets Department",
+        "collectionId": "1742057774"
+      },
+      {
+        "favoriteColor": "pink",
+        "favoriteGenre": "pop",
+        "recommendedProductName": "Lover",
+        "collectionId": "1468058165"
+      },
+      {
+        "favoriteColor": "purple",
+        "favoriteGenre": "country",
+        "recommendedProductName": "Speak Now",
+        "collectionId": "1690873457"
+      },
+      {
+        "favoriteColor": "beige",
+        "favoriteGenre": "indie",
+        "recommendedProductName": "evermore",
+        "collectionId": "1544268281"
+      },
+      {
+        "favoriteColor": "brown",
+        "favoriteGenre": "indie",
+        "recommendedProductName": "evermore",
+        "collectionId": "1544268281"
+      },
+      {
+        "favoriteColor": "navy",
+        "favoriteGenre": "pop",
+        "recommendedProductName": "Midnights",
+        "collectionId": "1645937456"
+      },
+      {
+        "favoriteColor": "orange",
+        "favoriteGenre": "pop",
+        "recommendedProductName": "Midnights",
+        "collectionId": "1645937456"
+      }
+    ]
+  },
+  "requestParameters": {}
+}
