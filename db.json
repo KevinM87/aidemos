@@ -51,8 +51,8 @@
       "email": "romain.gregoire@mail.com",
       "first_name": "Lana",
       "last_name": "Del Rey",
-      "last_order_id": "13133"
-      "last_order_payment_status": "failed_technical error"
+      "last_order_id": "13133",
+      "last_order_payment_status": "failed_technical error",
       "key_status": "null",
       "credit_limit": "£9999",
       "current_balance": "£9999",
