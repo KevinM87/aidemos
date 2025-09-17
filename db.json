@@ -140,10 +140,10 @@
       "orderNumber": 12341,
       "orderDate": "10-02-2021",
       "releaseDate": "non dépassé",
-      "overallOrderStatus": "en_cours",
+      "StatutEnvoi": "en cours de livraison",
       "enAttente_raison": "Le co-soucripteur n'a pas signé",
       "courier": "Stellantis",
-      "estimatedDelDate": "28-02-2021",
+      "estimatedDelDate": "19-09-2025",
       "items": [
         {
           "itemNo": 1,
