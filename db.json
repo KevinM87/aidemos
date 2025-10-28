@@ -1,253 +1,461 @@
 {
-  "glasses": [
-    {
-      "colour":"noire",
-      "usage": "screen",
-      "shape": "round",
-      "size": "small",
-      "suggestion": "https://www.izipizi.com/fr_fr/pantos-noir-scrdc01-00.html",
-      "account_status": "enabled",
-      "last_order": "2000",
-      "Last_bill": "£76.54",
-      "available_credit": "500 €",
-      "high_volume": "no",
-      "return_possible": "no",
-      "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "account_health": "green",
-      "ifu_url": "https://tinyurl.com/5n86dnjv",
-      "delivery": [
-        {
-          "status": "picked up by delivery company",
-          "ID": "12345",
-          "value": "£25.99",
-          "date_livraison": "12 juin 2025"
-        }
-      ]
-    },
-    {
-      "accountid":123456780,
-      "email": "kevinmiodek@gmail.com",
-      "first_name": "Tom",
-      "last_name": "Pidcock",
-      "DOB": "10-07-1987",
-      "key_status": "ok",
-      "credit_limit": "£2000",
-      "current_balance": "1 500 €",
-      "available_credit": "500 €",
-      "under_warranty": "yes",
-      "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "account_health": "red",
-      "balance": "1000",
-      "device": [
-        {
-          "status": "no connection",
-          "version": "4.1",
-          "value": "£25.99"
-        }
-      ]
-    },    
-    {
-      "accountid": 1000000000,
-      "email": "romain.gregoire@mail.com",
-      "first_name": "Lana",
-      "last_name": "Del Rey",
-      "last_order_id": "13133",
-      "last_order_payment_status": "failed_technical error",
-      "key_status": "null",
-      "credit_limit": "£9999",
-      "current_balance": "£9999",
-      "available_credit": "£0",
-      "under_warranty": "yes",
-      "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "localité": "Paris",
-      "device": [
-        {
-          "status": "connection_established",
-          "version": "3.1",
-          "value": "£25.99"
-      }
-      ]
-    }
-  ],
-  "accounts": [
-    {
-      "accountid":123456789,
-      "email": "k3vind3mo@gmail.com",
-      "first_name": "Tom",
-      "last_name": "Pidcock",
-      "Payment_due_date": "10 August 2025",
-      "account_status": "enabled",
-      "last_order": "2000",
-      "Last_bill": "£76.54",
-      "available_credit": "500 €",
-      "high_volume": "no",
-      "return_possible": "no",
-      "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "account_health": "green",
-      "ifu_url": "https://tinyurl.com/5n86dnjv",
-      "delivery": [
-        {
-          "status": "picked up by delivery company",
-          "ID": "12345",
-          "value": "£25.99",
-          "date_livraison": "12 juin 2025"
-        }
-      ]
-    },
-    {
-      "accountid":123456780,
-      "email": "kevinmiodek@gmail.com",
-      "first_name": "Tom",
-      "last_name": "Pidcock",
-      "DOB": "10-07-1987",
-      "key_status": "ok",
-      "credit_limit": "£2000",
-      "current_balance": "1 500 €",
-      "available_credit": "500 €",
-      "under_warranty": "yes",
-      "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "account_health": "red",
-      "balance": "1000",
-      "device": [
-        {
-          "status": "no connection",
-          "version": "4.1",
-          "value": "£25.99"
-        }
-      ]
-    },    
-    {
-      "accountid": 1000000000,
-      "email": "romain.gregoire@mail.com",
-      "first_name": "Lana",
-      "last_name": "Del Rey",
-      "key_status": "null",
-      "credit_limit": "£9999",
-      "current_balance": "£9999",
-      "available_credit": "£0",
-      "under_warranty": "yes",
-      "secret_question": "Quelle est la couleur de votre première voiture ?",
-      "localité": "Paris",
-      "device": [
-        {
-          "status": "connection_established",
-          "version": "3.1",
-          "value": "£25.99"
-        }
-      ]
-    }
-  ],
-  "orders": [
-    {
-      "orderNumber": 12341,
-      "orderDate": "10-02-2021",
-      "releaseDate": "non dépassé",
-      "StatutEnvoi": "en cours de livraison",
-      "enAttente_raison": "Le co-soucripteur n'a pas signé",
-      "courier": "Stellantis",
-      "EventDate": "19-12-2025",
-      "driver_number": "+33 6 01 02 03 04",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "Georgina",
-              "Item": "Touch and Close Footbed Sandals",
-              "quantity": 1,
-              "Size": "S",
-              "Color": "Orange",
-              "url": "https://www.simplybe.co.uk/i/7408a88a60c70edd/original/y02od282711s.jpg?im=Resize=580&impolicy=pdp"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "orderNumber": 12345,
-      "client": "k3vind3mo@gmail.com",
-      "orderDate": "21-06-2025",
-      "releaseDate": "dépassé",
-      "overallOrderStatus": "avec le transporteur",
-      "estimatedDelDate": "12-09-2025",
-      "url_transporteur": "https://www.dhl.com/fr-fr/home/suivi.html?tracking-id=12345&submit=1",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "QUOTE Old",
-              "Item": "Leather",
-              "quantity": 1,
-              "releaseDay": "13 mai 2025",
-              "availability": "pre-order",
-              "url": "https://www.izipizi.com/media/catalog/product/f/8/f8_rea4127101x10_1-izi_quote_reading_old_leather_vue1_1_.jpg"
-
-            }
-          ]
-        },
-        {
-          "itemNo": 2,
-          "productDetails": [
-            {
-              "Brand": "Moonlight Grey",
-              "Item": "Reading",
-              "quantity": 1,
-              "releaseDay": "03 avril 2025",
-              "availability": "available",
-              "url": "https://www.izipizi.com/media/catalog/product/f/8/f8_rea0327501x10_1-izi_c_reading_moonlight_grey_vue1_1_.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "orderNumber": 54321,
-      "orderDate": "02-09-2024",
-      "overallOrderStatus": "shipped",
-      "courier": "DHL",
-      "estimatedDelDate": "15-09-2024",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "PUMA",
-              "Item": "Sportswear Cap",
-              "quantity": 1,
-              "Size": "-",
-              "Color": "SAGE",
-              "url": "https://www.simplybe.co.uk/i/716b62130a03c23f/original/z01pm570501s.jpg?im=Resize=580&impolicy=pdp"
-            }
-          ]
-        },
-        {
-          "itemNo": 2,
-          "productDetails": [
-            {
-              "Brand": "Under Armour",
-              "Item": "Performance Tech Socks 3pk",
-              "quantity": 1,
-              "Size": "M",
-              "Color": "Multi",
-              "url": "https://www.simplybe.co.uk/i/1e4efc201c743905/original/a01mo242500s.jpg?im=Resize=580&impolicy=pdp"
-            }
-          ]
-        },
-        {
-          "itemNo": 3,
-          "productDetails": [
-            {
-              "Brand": "SimplyBe",
-              "Item": "Dark Blue Slim Pull On Jegging",
-              "quantity": 1,
-              "Size": "EU S",
-              "Color": "Black",
-              "url": "https://www.simplybe.co.uk/i/5afcbe4fc94b4bf5/original/a02zy529736w.jpg?im=Resize=580&impolicy=pdp"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+"accounts": [
+{
+"accountId": "123456789",
+"email": "camille.dupont@example.com",
+"firstName": "Camille",
+"lastName": "Dupont",
+"status": "active",
+"createdAt": "2023-11-05",
+"lastActiveAt": "2025-10-09",
+"phone": "+33612345678",
+"language": "fr-FR",
+"timezone": "Europe/Paris",
+"plan": "Business",
+"region": "eu-west-1",
+"primaryPodId": "pod-eu-west-1a",
+"secondaryPodId": "pod-eu-west-1b",
+"defaultServiceAddressId": "addr-123456789-service",
+"defaultEmergencyAddressId": "addr-123456789-emergency",
+"addresses": [
+{
+"addressId": "addr-123456789-service",
+"type": "service",
+"name": "Camille Dupont",
+"line1": "12 Rue de la République",
+"line2": null,
+"postalCode": "69002",
+"city": "Lyon",
+"country": "FR",
+"phone": "+33612345678"
+},
+{
+"addressId": "addr-123456789-emergency",
+"type": "emergency",
+"name": "Camille Dupont",
+"line1": "12 Rue de la République",
+"line2": "Bâtiment B",
+"postalCode": "69002",
+"city": "Lyon",
+"country": "FR",
+"phone": "+33612345678"
+}
+],
+"phoneNumbers": [
+{
+"number": "+33472123456",
+"type": "DID",
+"label": "Main",
+"extension": "1001",
+"emergencyAddressId": "addr-123456789-emergency"
+}
+],
+"sip": {
+"username": "123456789",
+"realm": "sip.eu.example.com"
+},
+"features": [
+{
+"featureId": "feat-voicemail",
+"status": "enabled",
+"activatedAt": "2024-01-12",
+"settings": { "greetingLanguage": "fr-FR", "attachVoicemailToEmail": true }
+},
+{
+"featureId": "feat-call-recording",
+"status": "enabled",
+"activatedAt": "2024-05-07",
+"settings": { "mode": "on_demand", "storageDays": 30 }
+},
+{
+"featureId": "feat-ivr",
+"status": "enabled",
+"activatedAt": "2024-08-21",
+"settings": { "entryPoint": "+33472123456", "timeoutSeconds": 5 }
+},
+{
+"featureId": "feat-sms",
+"status": "enabled",
+"activatedAt": "2024-03-03",
+"settings": { "alphanumericSender": null }
+},
+{
+"featureId": "feat-web-rtc",
+"status": "enabled",
+"activatedAt": "2024-09-15",
+"settings": { "codecPreference": ["opus", "PCMU"] }
+},
+{
+"featureId": "feat-conferencing",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+}
+]
+},
+{
+"accountId": "123456780",
+"email": "hugo.martin@example.com",
+"firstName": "Hugo",
+"lastName": "Martin",
+"status": "active",
+"createdAt": "2022-06-18",
+"lastActiveAt": "2025-09-29",
+"phone": "+33609876543",
+"language": "fr-FR",
+"timezone": "Europe/Paris",
+"plan": "Pro",
+"region": "eu-west-1",
+"primaryPodId": "pod-eu-west-1b",
+"secondaryPodId": "pod-eu-west-1a",
+"defaultServiceAddressId": "addr-123456780-service",
+"defaultEmergencyAddressId": "addr-123456780-emergency",
+"addresses": [
+{
+"addressId": "addr-123456780-service",
+"type": "service",
+"name": "Hugo Martin",
+"line1": "27 Avenue Victor Hugo",
+"line2": null,
+"postalCode": "75116",
+"city": "Paris",
+"country": "FR",
+"phone": "+33609876543"
+},
+{
+"addressId": "addr-123456780-emergency",
+"type": "emergency",
+"name": "Hugo Martin",
+"line1": "15 Rue Oberkampf",
+"line2": "Appartement 4",
+"postalCode": "75011",
+"city": "Paris",
+"country": "FR",
+"phone": "+33609876543"
+}
+],
+"phoneNumbers": [
+{
+"number": "+33142889900",
+"type": "DID",
+"label": "Main",
+"extension": "1002",
+"emergencyAddressId": "addr-123456780-emergency"
+}
+],
+"sip": {
+"username": "123456780",
+"realm": "sip.eu.example.com"
+},
+"features": [
+{
+"featureId": "feat-voicemail",
+"status": "enabled",
+"activatedAt": "2023-02-10",
+"settings": { "greetingLanguage": "fr-FR", "attachVoicemailToEmail": false }
+},
+{
+"featureId": "feat-call-recording",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+},
+{
+"featureId": "feat-ivr",
+"status": "enabled",
+"activatedAt": "2023-05-12",
+"settings": { "entryPoint": "+33142889900", "timeoutSeconds": 6 }
+},
+{
+"featureId": "feat-sms",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+},
+{
+"featureId": "feat-web-rtc",
+"status": "enabled",
+"activatedAt": "2024-11-03",
+"settings": { "codecPreference": ["opus"] }
+},
+{
+"featureId": "feat-conferencing",
+"status": "enabled",
+"activatedAt": "2024-01-22",
+"settings": { "maxParticipants": 25, "recording": false }
+}
+]
+},
+{
+"accountId": "1000000000",
+"email": "lea.bernard@example.com",
+"firstName": "Léa",
+"lastName": "Bernard",
+"status": "active",
+"createdAt": "2024-02-02",
+"lastActiveAt": "2025-10-05",
+"phone": "+33655667788",
+"language": "fr-FR",
+"timezone": "Europe/Paris",
+"plan": "Starter",
+"region": "eu-central-1",
+"primaryPodId": "pod-eu-central-1a",
+"secondaryPodId": "pod-eu-west-1a",
+"defaultServiceAddressId": "addr-1000000000-service",
+"defaultEmergencyAddressId": "addr-1000000000-emergency",
+"addresses": [
+{
+"addressId": "addr-1000000000-service",
+"type": "service",
+"name": "Léa Bernard",
+"line1": "8 Rue Sainte-Catherine",
+"line2": null,
+"postalCode": "33000",
+"city": "Bordeaux",
+"country": "FR",
+"phone": "+33655667788"
+},
+{
+"addressId": "addr-1000000000-emergency",
+"type": "emergency",
+"name": "Léa Bernard",
+"line1": "33 Cours de l'Intendance",
+"line2": null,
+"postalCode": "33000",
+"city": "Bordeaux",
+"country": "FR",
+"phone": "+33655667788"
+}
+],
+"phoneNumbers": [
+{
+"number": "+33557991234",
+"type": "DID",
+"label": "Main",
+"extension": "1003",
+"emergencyAddressId": "addr-1000000000-emergency"
+}
+],
+"sip": {
+"username": "1000000000",
+"realm": "sip.eu.example.com"
+},
+"features": [
+{
+"featureId": "feat-voicemail",
+"status": "enabled",
+"activatedAt": "2024-02-15",
+"settings": { "greetingLanguage": "fr-FR", "attachVoicemailToEmail": true }
+},
+{
+"featureId": "feat-call-recording",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+},
+{
+"featureId": "feat-ivr",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+},
+{
+"featureId": "feat-sms",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+},
+{
+"featureId": "feat-web-rtc",
+"status": "enabled",
+"activatedAt": "2025-01-03",
+"settings": { "codecPreference": ["opus", "PCMA"] }
+},
+{
+"featureId": "feat-conferencing",
+"status": "disabled",
+"activatedAt": null,
+"settings": {}
+}
+]
+}
+],
+"pods": [
+{
+"podId": "pod-eu-west-1a",
+"region": "eu-west-1",
+"zone": "a",
+"status": "operational",
+"endpoints": {
+"sip": "sip.pod-eu-west-1a.example.com",
+"api": "api.pod-eu-west-1a.example.com",
+"webrtc": "webrtc.pod-eu-west-1a.example.com"
+},
+"featuresHosted": [
+"feat-voicemail",
+"feat-call-recording",
+"feat-ivr",
+"feat-sms",
+"feat-web-rtc",
+"feat-conferencing"
+],
+"currentSessions": 1345,
+"maxSessions": 5000,
+"cpuLoadPct": 42.5,
+"version": { "core": "2.14.3", "sip": "1.9.0", "webrtc": "3.2.1" },
+"maintenanceWindow": "Sun 02:00-04:00 CET",
+"updatedAt": "2025-10-28"
+},
+{
+"podId": "pod-eu-west-1b",
+"region": "eu-west-1",
+"zone": "b",
+"status": "degraded",
+"endpoints": {
+"sip": "sip.pod-eu-west-1b.example.com",
+"api": "api.pod-eu-west-1b.example.com",
+"webrtc": "webrtc.pod-eu-west-1b.example.com"
+},
+"featuresHosted": [
+"feat-voicemail",
+"feat-call-recording",
+"feat-ivr",
+"feat-sms",
+"feat-web-rtc",
+"feat-conferencing"
+],
+"currentSessions": 2988,
+"maxSessions": 5000,
+"cpuLoadPct": 67.9,
+"version": { "core": "2.14.3", "sip": "1.9.0", "webrtc": "3.2.1" },
+"maintenanceWindow": "Sun 02:00-04:00 CET",
+"updatedAt": "2025-10-28"
+},
+{
+"podId": "pod-eu-central-1a",
+"region": "eu-central-1",
+"zone": "a",
+"status": "maintenance",
+"endpoints": {
+"sip": "sip.pod-eu-central-1a.example.com",
+"api": "api.pod-eu-central-1a.example.com",
+"webrtc": "webrtc.pod-eu-central-1a.example.com"
+},
+"featuresHosted": [
+"feat-voicemail",
+"feat-call-recording",
+"feat-ivr",
+"feat-sms",
+"feat-web-rtc",
+"feat-conferencing"
+],
+"currentSessions": 845,
+"maxSessions": 4000,
+"cpuLoadPct": 35.2,
+"version": { "core": "2.14.2", "sip": "1.8.9", "webrtc": "3.2.0" },
+"maintenanceWindow": "Sat 23:00-01:00 CET",
+"updatedAt": "2025-10-28"
+}
+],
+"features": [
+{
+"featureId": "feat-voicemail",
+"name": "Voicemail",
+"category": "core",
+"globalStatus": "operational",
+"statusByPod": {
+"pod-eu-west-1a": "operational",
+"pod-eu-west-1b": "operational",
+"pod-eu-central-1a": "operational"
+},
+"activeIncident": null,
+"lastUpdated": "2025-10-28"
+},
+{
+"featureId": "feat-call-recording",
+"name": "Call Recording",
+"category": "compliance",
+"globalStatus": "operational",
+"statusByPod": {
+"pod-eu-west-1a": "operational",
+"pod-eu-west-1b": "operational",
+"pod-eu-central-1a": "operational"
+},
+"activeIncident": null,
+"lastUpdated": "2025-10-28"
+},
+{
+"featureId": "feat-ivr",
+"name": "IVR",
+"category": "routing",
+"globalStatus": "operational",
+"statusByPod": {
+"pod-eu-west-1a": "operational",
+"pod-eu-west-1b": "operational",
+"pod-eu-central-1a": "operational"
+},
+"activeIncident": null,
+"lastUpdated": "2025-10-28"
+},
+{
+"featureId": "feat-sms",
+"name": "SMS",
+"category": "messaging",
+"globalStatus": "degraded",
+"statusByPod": {
+"pod-eu-west-1a": "operational",
+"pod-eu-west-1b": "outage",
+"pod-eu-central-1a": "operational"
+},
+"activeIncident": {
+"incidentId": "inc-20251028-001",
+"status": "investigating",
+"startedAt": "2025-10-28T10:42:00Z",
+"affectedPods": ["pod-eu-west-1b"],
+"impact": "Inbound/outbound SMS failing intermittently on eu-west-1b",
+"eta": null,
+"updates": [
+{ "ts": "2025-10-28T11:00:00Z", "message": "Engineering engaged; isolating SMS gateway on eu-west-1b." }
+]
+},
+"lastUpdated": "2025-10-28"
+},
+{
+"featureId": "feat-web-rtc",
+"name": "WebRTC",
+"category": "realtime",
+"globalStatus": "maintenance",
+"statusByPod": {
+"pod-eu-west-1a": "operational",
+"pod-eu-west-1b": "operational",
+"pod-eu-central-1a": "maintenance"
+},
+"activeIncident": {
+"incidentId": "mnt-20251028-centrala",
+"status": "in_progress",
+"startedAt": "2025-10-28T08:00:00Z",
+"affectedPods": ["pod-eu-central-1a"],
+"impact": "Brief disconnects may occur during rolling restart on eu-central-1a WebRTC edges.",
+"eta": "2025-10-28T12:00:00Z",
+"updates": [
+{ "ts": "2025-10-28T08:05:00Z", "message": "Maintenance window opened." },
+{ "ts": "2025-10-28T10:30:00Z", "message": "50% of edges updated; monitoring latency." }
+]
+},
+"lastUpdated": "2025-10-28"
+},
+{
+"featureId": "feat-conferencing",
+"name": "Audio Conferencing",
+"category": "collaboration",
+"globalStatus": "operational",
+"statusByPod": {
+"pod-eu-west-1a": "operational",
+"pod-eu-west-1b": "operational",
+"pod-eu-central-1a": "operational"
+},
+"activeIncident": null,
+"lastUpdated": "2025-10-28"
+}
+]
 }
