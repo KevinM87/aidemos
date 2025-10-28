@@ -1,185 +1,99 @@
-{
-"accounts": [
-{
-"accountId": "123456789",
-"email": "camille.dupont@example.com",
-"firstName": "Camille",
-"lastName": "Dupont",
-"status": "active",
-"createdAt": "2023-11-05",
-"lastActiveAt": "2025-10-09",
-"phone": "+33612345678",
-"language": "fr-FR",
-"timezone": "Europe/Paris",
-"plan": "Business",
-"region": "eu-west-1",
-"primaryPodId": "pod-eu-west-1a",
-"phoneNumbers": [
-{
-"number": "+33472123456",
-"type": "DID",
-"label": "Main",
-"extension": "1001"
-}
-],
-"sip": {
-"username": "123456789",
-"realm": "sip.eu.example.com"
-},
-"features": [
-{
-"featureId": "feat-voicemail",
-"status": "enabled",
-"activatedAt": "2024-01-12"
-},
-{
-"featureId": "feat-ivr",
-"status": "enabled",
-"activatedAt": "2024-08-21"
-},
-{
-"featureId": "feat-sms",
-"status": "enabled",
-"activatedAt": "2024-03-03"
-},
-{
-"featureId": "feat-web-rtc",
-"status": "enabled",
-"activatedAt": "2024-09-15"
-}
+[
+  {
+    "accountId": "123456789",
+    "email": "camille.dupont@example.com",
+    "firstName": "Camille",
+    "lastName": "Dupont",
+    "status": "active",
+    "createdAt": "2023-11-05",
+    "lastActiveAt": "2025-10-09",
+    "phone": "+33612345678",
+    "language": "fr-FR",
+    "timezone": "Europe/Paris",
+    "plan": "Business",
+    "region": "eu-west-1",
+    "primaryPodId": "pod-eu-west-1a",
+    "phoneNumbers": [
+      {
+        "number": "+33472123456",
+        "type": "DID",
+        "label": "Main",
+        "extension": "1001"
+      }
+    ],
+    "sip": {
+      "username": "123456789",
+      "realm": "sip.eu.example.com"
+    },
+    "features": [
+      {
+        "featureId": "feat-voicemail",
+        "status": "enabled",
+        "activatedAt": "2024-01-12"
+      },
+      {
+        "featureId": "feat-ivr",
+        "status": "enabled",
+        "activatedAt": "2024-08-21"
+      },
+      {
+        "featureId": "feat-sms",
+        "status": "enabled",
+        "activatedAt": "2024-03-03"
+      },
+      {
+        "featureId": "feat-web-rtc",
+        "status": "enabled",
+        "activatedAt": "2024-09-15"
+      }
+    ]
+  },
+  {
+    "accountId": "123456780",
+    "email": "hugo.martin@example.com",
+    "firstName": "Hugo",
+    "lastName": "Martin",
+    "status": "active",
+    "createdAt": "2022-06-18",
+    "lastActiveAt": "2025-09-29",
+    "phone": "+33609876543",
+    "language": "fr-FR",
+    "timezone": "Europe/Paris",
+    "plan": "Pro",
+    "region": "eu-west-1",
+    "primaryPodId": "pod-eu-west-1b",
+    "phoneNumbers": [
+      {
+        "number": "+33142889900",
+        "type": "DID",
+        "label": "Main",
+        "extension": "1002"
+      }
+    ],
+    "sip": {
+      "username": "123456780",
+      "realm": "sip.eu.example.com"
+    },
+    "features": [
+      {
+        "featureId": "feat-voicemail",
+        "status": "enabled",
+        "activatedAt": "2023-02-10"
+      },
+      {
+        "featureId": "feat-ivr",
+        "status": "enabled",
+        "activatedAt": "2023-05-12"
+      },
+      {
+        "featureId": "feat-sms",
+        "status": "disabled"
+      },
+      {
+        "featureId": "feat-web-rtc",
+        "status": "enabled",
+        "activatedAt": "2024-11-03"
+      }
+    ]
+  }
 ]
-},
-{
-"accountId": "123456780",
-"email": "hugo.martin@example.com",
-"firstName": "Hugo",
-"lastName": "Martin",
-"status": "active",
-"createdAt": "2022-06-18",
-"lastActiveAt": "2025-09-29",
-"phone": "+33609876543",
-"language": "fr-FR",
-"timezone": "Europe/Paris",
-"plan": "Pro",
-"region": "eu-west-1",
-"primaryPodId": "pod-eu-west-1b",
-"phoneNumbers": [
-{
-"number": "+33142889900",
-"type": "DID",
-"label": "Main",
-"extension": "1002"
-}
-],
-"sip": {
-"username": "123456780",
-"realm": "sip.eu.example.com"
-},
-"features": [
-{
-"featureId": "feat-voicemail",
-"status": "enabled",
-"activatedAt": "2023-02-10"
-},
-{
-"featureId": "feat-ivr",
-"status": "enabled",
-"activatedAt": "2023-05-12"
-},
-{
-"featureId": "feat-sms",
-"status": "disabled"
-},
-{
-"featureId": "feat-web-rtc",
-"status": "enabled",
-"activatedAt": "2024-11-03"
-}
-]
-}
-],
-"pods": [
-{
-"podId": "pod-eu-west-1a",
-"region": "eu-west-1",
-"zone": "a",
-"status": "operational",
-"endpoints": {
-"sip": "sip.pod-eu-west-1a.example.com",
-"api": "api.pod-eu-west-1a.example.com",
-"webrtc": "webrtc.pod-eu-west-1a.example.com"
-}
-},
-{
-"podId": "pod-eu-west-1b",
-"region": "eu-west-1",
-"zone": "b",
-"status": "degraded",
-"endpoints": {
-"sip": "sip.pod-eu-west-1b.example.com",
-"api": "api.pod-eu-west-1b.example.com",
-"webrtc": "webrtc.pod-eu-west-1b.example.com"
-}
-}
-],
-"features": [
-{
-"featureId": "feat-voicemail",
-"name": "Voicemail",
-"globalStatus": "operational",
-"statusByPod": {
-"pod-eu-west-1a": "operational",
-"pod-eu-west-1b": "operational"
-},
-"activeIncident": null
-},
-{
-"featureId": "feat-ivr",
-"name": "IVR",
-"globalStatus": "operational",
-"statusByPod": {
-"pod-eu-west-1a": "operational",
-"pod-eu-west-1b": "operational"
-},
-"activeIncident": null
-},
-{
-"featureId": "feat-sms",
-"name": "SMS",
-"globalStatus": "degraded",
-"statusByPod": {
-"pod-eu-west-1a": "operational",
-"pod-eu-west-1b": "outage"
-},
-"activeIncident": {
-"incidentId": "inc-20251028-001",
-"status": "investigating",
-"startedAt": "2025-10-28T10:42:00Z",
-"affectedPods": [
-"pod-eu-west-1b"
-],
-"impact": "SMS failing intermittently on eu-west-1b"
-}
-},
-{
-"featureId": "feat-web-rtc",
-"name": "WebRTC",
-"globalStatus": "operational",
-"statusByPod": {
-"pod-eu-west-1a": "operational",
-"pod-eu-west-1b": "operational"
-},
-"activeIncident": null
-},
-{
-"featureId": "feat-conferencing",
-"name": "Audio Conferencing",
-"globalStatus": "operational",
-"statusByPod": {
-"pod-eu-west-1a": "operational",
-"pod-eu-west-1b": "operational"
-},
-"activeIncident": null
-}
-]
-}
