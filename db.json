@@ -1,7 +1,7 @@
 {
 "accounts": [
 {
-"accountId": "123456789",
+"accountid": "123456789",
 "email": "camille.dupont@example.com",
 "firstName": "Camille",
 "lastName": "Dupont",
@@ -50,7 +50,7 @@
 ]
 },
 {
-"accountId": "123456780",
+"accountid": "123456780",
 "email": "hugo.martin@example.com",
 "firstName": "Hugo",
 "lastName": "Martin",
