@@ -13,7 +13,7 @@
 "timezone": "Europe/Paris",
 "plan": "Business",
 "region": "eu-west-1",
-"primaryPodId": "pod-eu-west-1a",
+"primaryPodId": "eu-west-1a",
 "phoneNumbers": [
 {
 "number": "+33472123456",
