@@ -39,7 +39,7 @@
 },
 {
 "featureId": "feat-sms",
-"status-sms": "down",
+"status_sms": "down",
 "activatedAt": "2024-03-03"
 },
 {
