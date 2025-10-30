@@ -11,6 +11,8 @@
 "phone": "+33612345678",
 "language": "fr-FR",
 "timezone": "Europe/Paris",
+"statut_dernier_paiement": "refusé",
+"raison_du_refus": "PIN incorrect",
 "plan": "Business",
 "region": "eu-west-1",
 "primaryPodId": "eu-west-1a",
