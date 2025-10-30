@@ -13,8 +13,8 @@
 "timezone": "Europe/Paris",
 "statut_dernier_paiement": "refusé",
 "raison_du_refus": "PIN incorrect",
-"plan": "Business",
-"region": "eu-west-1",
+"statu_envoi_carte": "en cours",
+"adresse": "13 rue du Louvre, 75002 Paris",
 "primaryPodId": "eu-west-1a",
 "phoneNumbers": [
 {
