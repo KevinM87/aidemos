@@ -13,7 +13,7 @@
 "timezone": "Europe/Paris",
 "statut_dernier_paiement": "refusé",
 "raison_du_refus": "PIN incorrect",
-"statut_envoi_carte": "envoyée",
+"solde_compte": "1 323 €",
 "adresse": "13 rue du Louvre, 75002 Paris",
 "primaryPodId": "eu-west-1a",
 "phoneNumbers": [
