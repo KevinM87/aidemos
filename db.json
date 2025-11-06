@@ -53,7 +53,9 @@
 },
 {
 "accountid": "123456780",
-"email": "hugo.martin@example.com",
+"email": "k3vind3mo3@gmail.com",
+"order_status": "shipped",
+"delivery_date": "2023-11-07",
 "firstName": "Hugo",
 "lastName": "Martin",
 "status": "active",
