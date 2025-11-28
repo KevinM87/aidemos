@@ -2,7 +2,7 @@
 "accounts": [
 {
 "accountid": "123456789",
-"email": " camille.dupont@example.com",
+"email": "camille.dupont@example.com",
 "firstName": "Camille",
 "lastName": "Dupont",
 "order_status": "shipped",
