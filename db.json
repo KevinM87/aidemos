@@ -2,7 +2,7 @@
 "accounts": [
 {
 "accountid": "123456789",
-"email": "camille.dupont@example.com",
+"email": "k3vind3mo@gnail.com",
 "firstName": "Camille",
 "lastName": "Dupont",
 "order_status": "shipped",
@@ -53,7 +53,7 @@
 },
 {
 "accountid": "123456780",
-"email": "k3vind3mo@gmail.com",
+"email": "kevindemo@gmail.com",
 "order_status": "shipped",
 "delivery_date": "2023-11-07",
 "firstName": "Hugo",
