@@ -12,7 +12,7 @@
 "language": "fr-FR",
 "timezone": "Europe/Paris",
 "statut_dernier_paiement": "refusé",
-"raison_du_refus": "PIN incorrect",
+"version_status": "latest",
 "solde_compte": "1 323 €",
 "adresse": "13 rue du Louvre, 75002 Paris",
 "primaryPodId": "eu-west-1a",
