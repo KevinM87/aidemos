@@ -12,6 +12,11 @@
 "language": "fr-FR",
 "timezone": "Europe/Paris",
 "statut_dernier_paiement": "refusé",
+"reservationID": "12345",
+"date": "12 mars 2026",
+"time": "15H30",
+"pickup_spot": "13 rue du Louvre 75002 Paris",
+"drop_off": "Gare de Lyon",
 "phoneNumbers": [
 {
 "number": "+33472123456",
