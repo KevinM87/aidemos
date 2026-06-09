@@ -1,7 +1,7 @@
 {
 "accounts": [
 {
-"SIM": "12345",
+"accountnumber": "12345",
 "email": "kevindemo@zendesk.com",
 "firstName": "Camille",
 "lastName": "Dupont",
@@ -10,7 +10,7 @@
 "IBAN": "GB15HBUK40127612345678",
 "phone": "+33612345678",
 "language": "fr-FR",
-"timezone": "Europe/Paris",
+"formule_abonnement": "Professionel",
 "retard": "retard simple notifié",
 "raison_refus": "document non rempli",
 "IDremboursement": "12345",
