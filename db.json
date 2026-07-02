@@ -1,11 +1,11 @@
 {
 "accounts": [
 {
-"accountnumber": "12345",
+"withdrawal_id": "12345",
 "email": "kevindemo@zendesk.com",
 "firstName": "Camille",
 "lastName": "Dupont",
-"order_status": "shipped",
+"withdrawal_status": "processed",
 "delivery_date": "2026-02-17",
 "IBAN": "GB15HBUK40127612345678",
 "phone": "+33612345678",
